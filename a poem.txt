@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>A Poem by R. L. Stevenson</title>
+</head>
+<body background="frame.jpg" align="center" alink="black" vlink="black">
+<a href="ABOUT THE AUTHOR.html">
+<h1 align="center">
+<font face="gigi" size="9">A Poem by R. L. Stevenson</font>
+</h1></a>
+<font face="Atlandsketches BB" size="14">
+If the sailor sails to sailor tunes,<br>
+Storm & adventure, head and cold<br>
+If Schooners, islands & maroons,<br>
+And buccaneers and buried gold,<br>
+And all the old romance retold, <br>
+Exactly in the ancient way,<br>
+Can please, as they may pleased of old,<br>
+The wiser youngsters of to-day<BR><br>
+So be it and fall on to touch, if not,<br>
+If studious youth no longer crave,<br>
+His ancient appetites forgot,<br>
+Kingston or Ballantyne the Brave,<br>
+Or Cooper of the wood and wave,<br>
+So be it also, and may I,<br>
+And all my pirates share the grave,<br>
+Where these and their creations lie.
+</font>
+</body>
+</html>
